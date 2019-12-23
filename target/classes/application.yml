@@ -1,7 +1,0 @@
-server:
-    context-path: /stackedBarChart
-
-logging:
-    level:
-        org:
-            springframework: ERROR
